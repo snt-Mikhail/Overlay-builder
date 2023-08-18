@@ -33,8 +33,8 @@ jobs:
       run: |
         PATH=~/bin:$PATH
         cd workspace && cd vendor_hardware_overlay
-        git config --global user.name "Johx22"
-        git config --global user.email "johannjose2004@gmail.com"
+        git config --global user.name "snt-Mikhail"
+        git config --global user.email "Mikha20@yandex.ru"
         cd tests
         bash tests.sh
 
